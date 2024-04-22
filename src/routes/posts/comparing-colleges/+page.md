@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ""
-description: ""
+title: "Tiered Institution Metrics: Comparative Averages"
+description: "Does college background affect one's job prospects?"
 categories:
   - radarchart
 published: true
@@ -13,8 +13,6 @@ image: https://er.educause.edu/-/media/images/articles/2021/3/er21_2104_headerar
 </script>
 
 <ComparingColleges />
-
-## Tiered Institution Metrics: Comparative Averages
 
 This dataset presents averages for various metrics across two tiers of educational or professional institutions, aiming to explore if one's college environment affects learning and job prospects.
 
