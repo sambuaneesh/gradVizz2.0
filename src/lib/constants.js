@@ -8,6 +8,10 @@ export const menu = [
     url: "/categories",
   },
   {
+    title: "Behind The Scenes",
+    url: "/work",
+  },
+  {
     title: "Team",
     url: "/team",
   },
