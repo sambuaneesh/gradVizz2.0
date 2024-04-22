@@ -13,7 +13,8 @@ export const menu = [
   },
   {
     title: "Report",
-    url: "/report",
+    url: "/report.pdf",
+    target: "_blank",
   },
   {
     title: "Demonstration Video",
