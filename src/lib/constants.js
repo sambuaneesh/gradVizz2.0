@@ -18,8 +18,7 @@ export const menu = [
   },
   {
     title: "Demonstration Video",
-    url: "https://youtu.be/fhXzsT45oNA",
-    target: "_blank",
+    url: "/demo",
   },
 ];
 
